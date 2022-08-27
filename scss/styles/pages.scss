@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-image: url("../../img/backgroundLp.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.card {
+  background-color: $bg-color;
+}
+
+h6 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.fotter {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
